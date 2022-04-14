@@ -1,0 +1,8 @@
+name: PlaceMC
+main: me.supern64.placemc.PlaceMC
+version: 1.0
+author: SuperN64
+commands:
+  place:
+    description: Base command for PlaceMC.
+    usage: /place [help/reload/toggle/worlds/sety/setcooldown]
